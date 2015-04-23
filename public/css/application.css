@@ -1,3 +1,13 @@
 body {
-  background-color: blue
+  background-color: gray;
+  height: 100%;
+  width: 100%;
+  background-image: url("");
 }
+
+#map-canvas {
+
+  height: 600px;
+  width: 50%;
+}
+
